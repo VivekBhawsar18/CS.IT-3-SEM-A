@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f4f8;
+}
+
+#registerForm {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  gap: 1rem;
+  border-radius: 1rem;
+  width: 100%;
+  max-width: 400px;
+}
